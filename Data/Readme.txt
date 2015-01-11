@@ -1,0 +1,1 @@
+As the size of model for individual devices was larger, so I put the data on Dropbox. You can download it from this link https://www.dropbox.com/sh/y5wyiupzt3qfk8e/AABRSRVGayeN2b_17m_IyxnYa?dl=0 as well as you can generate this by using the script located at SVN\HomeOS-Group\Source Code\Aashiyana\Matlab Scripts.
